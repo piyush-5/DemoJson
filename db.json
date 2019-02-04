@@ -1,6 +1,22 @@
 [
-    {id:1, name:'Piyush', city:'Nagpur'},
-      {id:2, name:'Ayush', city:'Mumbai'},
-      {id:3, name:'Raju', city:'Pune'},
-      {id:4, name:'Shamu', city:'Delhi'}
+    {
+        "id" : 1,
+        "name" : "Piyush",
+        "city" : "Nagpur"
+    },
+      {
+          "id" : 2,
+          "name" : "Ayush",
+          "city" : "Mumbai"
+      },
+      {
+         "id" : 3, 
+          "name" : "Raju", 
+          "city" : "Pune"
+      },
+      {
+          "id" : 4, 
+          "name" : "Shamu", 
+          "city" : "Delhi"
+      }
   ]
